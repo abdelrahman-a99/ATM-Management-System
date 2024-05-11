@@ -1,4 +1,0 @@
-8765-4321:mo:mo:momo:4321:High School:un:01090649797:0000-00-00
-1234-1234:omar:elhossiny:blabla:0120:High School:un:01200351201:2004-09-29
-1234-1212:mohamed:atef:bla bla bla:0000:Bachelor's Degree:unknown:01200351201:2004-09-29
-0000-1234:first:last:123:1234:High School:none:01200351201:2004-09-29
