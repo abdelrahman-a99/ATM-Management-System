@@ -5,19 +5,19 @@ It allows users to log in, register, and perform various banking transactions su
 
 ## Features
 
-*Login and Registration*: Users can log in with their account number and PIN or register for a new account.<br>
+**Login and Registration**: Users can log in with their account number and PIN or register for a new account.<br>
 
-*Transaction Options*: Once logged in, users can perform various transactions including deposit, withdrawal, balance inquiry, mini statement, change PIN, and fast cash.<br>
+**Transaction Options**: Once logged in, users can perform various transactions including deposit, withdrawal, balance inquiry, mini statement, change PIN, and fast cash.<br>
 
-*Data Persistence*: User account information is stored in text files (LoginInfo.txt and RegisterInfo.txt) for persistence between sessions.<br>
+**Data Persistence**: User account information is stored in text files (LoginInfo.txt and RegisterInfo.txt) for persistence between sessions.<br>
 
-*Validation*: Input validation ensures that users enter correct and valid information during registration and transactions.<br>
+**Validation**: Input validation ensures that users enter correct and valid information during registration and transactions.<br>
 
 ## Technologies Used
 
-- *Java*: The core programming language used for backend logic.<br>
-- *Swing*: Java's GUI toolkit used for building the graphical user interface.<br>
-- *File I/O*: Utilized for reading and writing user account information to text files.<br>
+- **Java**: The core programming language used for backend logic.<br>
+- **Swing**: Java's GUI toolkit used for building the graphical user interface.<br>
+- **File I/O**: Utilized for reading and writing user account information to text files.<br>
 
 ## License
 This project is licensed under the MIT License.
