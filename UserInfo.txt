@@ -1,0 +1,11 @@
+4111-1111:Mohamed:Nasr:ADDRESS:0000:High School:Occupation:01001989991:2003-12-14:5100
+5656-5656:abdelrahman:ahmed:bla:5656:High School:no:01200351201:2004-09-29:0
+1324-0000:jkb:hkj:1341:1234:High School:un:01200351201:2004-09-29:5000
+1212-3434:abdo:ahmed:bla:3434:High School:none:01200351201:2004-09-29:0
+1233-1233:Mohamed:Nasr:ADDRESS:0000:High School:Occupation:01001989991:2003-12-14:0
+3333-3333:Mohamed:Nasr:ADDRESS:1111:High School:Occupation:01001989991:2003-12-14:0
+1232-1212:abd:abd:abd:1212:High School:abd:01200351201:2004-9-29:0
+9898-9898:boda:ahmed:bla:1231:High School:no:01200351201:2004-09-29:0
+0000-0000:abdelrahman:ahmed:bla:0000:High School:Unknown:01200351201:2004-09-29:3500
+1111-1111:Mohamed:Nasr:ADDRESS:1112:High School:OC:01001989991:2003-14-12:69260
+0000-1111:abdo:ahmed:bla:1111:High School:no:01200351201:2004-09-29:0
